@@ -40,7 +40,7 @@ What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
 - **Essential element:**  Paw Patrol characters + Ryder with Adventure bay and town in background 
-- **Why this element:**  
+- **Why this element:**  They are the main characters and the main part of the show.
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
@@ -68,18 +68,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**  Make a movie poster for paw patrol. Core emotions:  Happy, heroic, fun, light. Essential element:  Paw Patrol characters + Ryder with Adventure bay and town in background. Dominant color(s):  Rainbow (one color for each pup). Overall mood: warm/vibrant/bright. Wide shot (landscape/setting). Have the pups scattered across the poster doing their job (Zuma in the water which is at the bottom of the poster, Skye in the sky, rubble bulldozing stuff, etc). The Paw Patrol tower in the background, main places of town in poster.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  Pups scattered doing their main jobs
+- **What didn't work:**  A little too colorful. 
+- **What I'll change for next attempt:**  Have it be less rainbows, and have the pups actively doing their jobs
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**  Make a movie poster for paw patrol. Core emotions:  Happy, heroic, fun, light. Essential element:  Paw Patrol characters + Ryder with Adventure bay and town in background. Overall mood: warm/vibrant/bright. Wide shot (landscape/setting). Have the pups scattered across the poster doing their job (Zuma in the water which is at the bottom of the poster, Skye in the sky, rubble bulldozing dirt, Marshall putting out a fire, Rocky reusing stuff to make stuff, Everest snowboarding, Chase riding around in car, and then all of the new dogs that have been added doing their specific things in the background). The Paw Patrol tower in the background, main places of town in poster.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  All pups doing their individual things
+- **What didn't work:**  Very busy - A lot going on.
+- **What I'll change for next attempt:**  Tell it too add some of the human characters (Mayor Goodway, Farmer Al, etc) cheering them on
 
 ---
 
@@ -88,11 +88,11 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 
 Keep refining. Try at least two more meaningfully different directions.
 
-**Attempt 3:**  
+**Attempt 3:** Make a movie poster for paw patrol. Core emotions:  Happy, heroic, fun, light. Essential element:  Paw Patrol characters + Ryder with Adventure bay and town in background. Overall mood: warm/vibrant/bright. Wide shot (landscape/setting). Have the pups scattered across the poster doing their job (Zuma in the water which is at the bottom of the poster, Skye flying in the sky, rubble bulldozing dirt, Marshall putting out a fire, Rocky reusing stuff to make stuff, Everest snowboarding, Chase riding around in car). The Paw Patrol tower in the background, main places of town in poster. Make it a little less busy and add some of the human characters (Mayor Goodway, Farmer Al, etc) cheering them on in the background in the town.
 - **My prompt:**  
 
 - **What worked:**  
-- **What didn't work:**  
+- **What didn't work:**  Pups and people that didn't exist in show. 
 - **What I'll change for next attempt:**  
 
 **Attempt 4:**  
