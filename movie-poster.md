@@ -91,18 +91,18 @@ Keep refining. Try at least two more meaningfully different directions.
 **Attempt 3:** Make a movie poster for paw patrol. Core emotions:  Happy, heroic, fun, light. Essential element:  Paw Patrol characters + Ryder with Adventure bay and town in background. Overall mood: warm/vibrant/bright. Wide shot (landscape/setting). Have the pups scattered across the poster doing their job (Zuma in the water which is at the bottom of the poster, Skye flying in the sky, rubble bulldozing dirt, Marshall putting out a fire, Rocky reusing stuff to make stuff, Everest snowboarding, Chase riding around in car). The Paw Patrol tower in the background, main places of town in poster. Make it a little less busy and add some of the human characters (Mayor Goodway, Farmer Al, etc) cheering them on in the background in the town.
 - **My prompt:**  
 
-- **What worked:**  
-- **What didn't work:**  Pups and people that didn't exist in show. 
-- **What I'll change for next attempt:**  
+- **What worked:**  The Paw Patrol Tower a central point
+- **What didn't work:**  Pups and people that didn't exist in show were in poster. 
+- **What I'll change for next attempt:**  Less pups/people, more things in background. Have pups doing specific jobs. 
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:** Make a movie poster for paw patrol. Core emotions:  Happy, heroic, fun, light. Essential element:  Paw Patrol characters + Ryder with Adventure bay and town in background. Overall mood: warm/vibrant/bright. Wide shot (landscape/setting). Have the pups scattered across the poster doing their job (Zuma in the water which is at the bottom of the poster, Skye flying in the sky, rubble bulldozing dirt, Marshall putting out a fire, Rocky reusing stuff to make stuff, Everest snowboarding, Chase riding around in car). The Paw Patrol tower in the background, main places of town in the show in poster. Make sure there's only seven pups (one of each pup, skye, marshall, rubble, everest, rocky, chase) and Ryder.  
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:**  Has everyone, but not too busy.
+- **What didn't work:**  Still random pups in image
 
 **Final AI Image Selected:** (Which attempt? Why?)  
-
+I am choosing attempt 4 because it looks the best and it has all of the main characters. 
 ---
 
 ## Step 4: Photoshop Modifications
